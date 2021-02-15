@@ -22,6 +22,6 @@ Test Strava API webhooks using ngrok
     ngrok http 80
     ```
 
-You can now use the url `https://<YOUR_NGROK_USERNAME>.ngrok.io/webhook` as the callback url for setting up a new Strava webhook subscription for testing purposes.
+You can now use the url provided by ngrok as the callback url for setting up a new Strava webhook subscription for testing purposes.
 
 https://developers.strava.com/docs/webhookexample/
